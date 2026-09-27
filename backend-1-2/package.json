@@ -1,0 +1,20 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "A fun backend for testing",
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "license": "ISC",
+  "author": "vikas vishwakarma laxmiShankar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.4",
+    "express": "^5.2.1"
+  }
+}
